@@ -1,0 +1,12 @@
+
+.QR-Code{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttons{
+    margin-bottom: 50px;
+    display: flex;
+    gap: 5px;
+}
